@@ -1,3 +1,5 @@
+Added unit tests to existing Java models to ensure that a application called Stack Overboard is functioning as intended.
+
 # Steps
 
 - Create a new Test Fixture for the User model in a separate but same package test directory structure. Use JUnit4.
